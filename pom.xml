@@ -57,6 +57,14 @@
 			<artifactId>pagehelper-spring-boot-starter</artifactId>
 			<version>1.2.3</version>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.icepdf.os/icepdf-core -->
+		<dependency>
+			<groupId>org.icepdf.os</groupId>
+			<artifactId>icepdf-core</artifactId>
+			<version>6.2.2</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
